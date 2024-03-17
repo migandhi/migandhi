@@ -12,10 +12,7 @@ Proficient in C#, JavaScript, and HTML Experience with Data Structures and Algor
 *   🧠  I'm learning Trying to catchup with latest trends, I tried my luck with prompt engineering.
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I dream of being a superhero
-<a href="https://www.github.com/migandhi" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/migandhi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/migandhi78" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/migandhi78?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+
 
 ### Skills 
 <p align="left">
